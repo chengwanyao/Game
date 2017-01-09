@@ -1,0 +1,195 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,Armour_jpg,BlackBackground_png,Defence_jpg,Helment_jpg,Hero_png,UserPanelBackGround_png,Weapon_jpg,background_jpg,markgrey_png,markyellow_png,person1_png,person2_png,questiongrey_png,questionyellow_png,01background_jpg,1_png,2_png,3_png,4_png,5_png,6_png,7_png,8_png,9_png,10_png,11_png,12_png,9252150_112838236232_2_jpg,obscle_png,still1_png,still2_png,still3_png,still4_png,rl_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "Armour_jpg",
+			"type": "image",
+			"url": "assets/Armour.jpg"
+		},
+		{
+			"name": "BlackBackground_png",
+			"type": "image",
+			"url": "assets/BlackBackground.png"
+		},
+		{
+			"name": "Defence_jpg",
+			"type": "image",
+			"url": "assets/Defence.jpg"
+		},
+		{
+			"name": "Helment_jpg",
+			"type": "image",
+			"url": "assets/Helment.jpg"
+		},
+		{
+			"name": "Hero_png",
+			"type": "image",
+			"url": "assets/Hero.png"
+		},
+		{
+			"name": "UserPanelBackGround_png",
+			"type": "image",
+			"url": "assets/UserPanelBackGround.png"
+		},
+		{
+			"name": "Weapon_jpg",
+			"type": "image",
+			"url": "assets/Weapon.jpg"
+		},
+		{
+			"name": "background_jpg",
+			"type": "image",
+			"url": "assets/background.jpg"
+		},
+		{
+			"name": "markgrey_png",
+			"type": "image",
+			"url": "assets/markgrey.png"
+		},
+		{
+			"name": "markyellow_png",
+			"type": "image",
+			"url": "assets/markyellow.png"
+		},
+		{
+			"name": "person1_png",
+			"type": "image",
+			"url": "assets/person1.png"
+		},
+		{
+			"name": "person2_png",
+			"type": "image",
+			"url": "assets/person2.png"
+		},
+		{
+			"name": "questiongrey_png",
+			"type": "image",
+			"url": "assets/questiongrey.png"
+		},
+		{
+			"name": "questionyellow_png",
+			"type": "image",
+			"url": "assets/questionyellow.png"
+		},
+		{
+			"name": "01background_jpg",
+			"type": "image",
+			"url": "assets/01background.jpg"
+		},
+		{
+			"name": "1_png",
+			"type": "image",
+			"url": "assets/1.png"
+		},
+		{
+			"name": "2_png",
+			"type": "image",
+			"url": "assets/2.png"
+		},
+		{
+			"name": "3_png",
+			"type": "image",
+			"url": "assets/3.png"
+		},
+		{
+			"name": "4_png",
+			"type": "image",
+			"url": "assets/4.png"
+		},
+		{
+			"name": "5_png",
+			"type": "image",
+			"url": "assets/5.png"
+		},
+		{
+			"name": "6_png",
+			"type": "image",
+			"url": "assets/6.png"
+		},
+		{
+			"name": "7_png",
+			"type": "image",
+			"url": "assets/7.png"
+		},
+		{
+			"name": "8_png",
+			"type": "image",
+			"url": "assets/8.png"
+		},
+		{
+			"name": "9_png",
+			"type": "image",
+			"url": "assets/9.png"
+		},
+		{
+			"name": "10_png",
+			"type": "image",
+			"url": "assets/10.png"
+		},
+		{
+			"name": "11_png",
+			"type": "image",
+			"url": "assets/11.png"
+		},
+		{
+			"name": "12_png",
+			"type": "image",
+			"url": "assets/12.png"
+		},
+		{
+			"name": "9252150_112838236232_2_jpg",
+			"type": "image",
+			"url": "assets/9252150_112838236232_2.jpg"
+		},
+		{
+			"name": "obscle_png",
+			"type": "image",
+			"url": "assets/obscle.png"
+		},
+		{
+			"name": "still1_png",
+			"type": "image",
+			"url": "assets/still1.png"
+		},
+		{
+			"name": "still2_png",
+			"type": "image",
+			"url": "assets/still2.png"
+		},
+		{
+			"name": "still3_png",
+			"type": "image",
+			"url": "assets/still3.png"
+		},
+		{
+			"name": "still4_png",
+			"type": "image",
+			"url": "assets/still4.png"
+		},
+		{
+			"name": "rl_png",
+			"type": "image",
+			"url": "assets/rl.png"
+		}
+	]
+}
